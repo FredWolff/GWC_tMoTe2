@@ -1,0 +1,772 @@
+{
+ "figS6_topology": {
+  "size_inches": [
+   18.168055555555554,
+   10.0
+  ],
+  "axes": [
+   {
+    "xlabel": "$n$ ($\\times10^{12}$ cm$^{-2}$)",
+    "ylabel": "$\\mu_0 H$ (T)",
+    "title": "",
+    "xlim": [
+     -4.6,
+     -3.6
+    ],
+    "ylim": [
+     -4.05,
+     4.05
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [
+     -5.0,
+     -4.5,
+     -4.0,
+     -3.5
+    ],
+    "yticks": [
+     -4.0,
+     -2.0,
+     0.0,
+     2.0,
+     4.0
+    ],
+    "texts": [
+     "(a)"
+    ],
+    "legend": [],
+    "artists": [
+     {
+      "kind": "mesh",
+      "values": {
+       "shape": [
+        81,
+        180
+       ],
+       "n_nan": 0,
+       "sum": 0.0,
+       "abs_sum": 8502.155916944199,
+       "min": -1.3397298216806484,
+       "max": 1.3397298216806484,
+       "weighted": 30190513.28806804
+      },
+      "coordinates": {
+       "shape": [
+        82,
+        181,
+        2
+       ],
+       "n_nan": 0,
+       "sum": -52426.77555937214,
+       "abs_sum": 82852.87555937214,
+       "min": -4.732323301528195,
+       "max": 4.05,
+       "weighted": -1080210042.5806894
+      },
+      "cmap": "PuOr",
+      "clim": [
+       -1.5,
+       1.5
+      ],
+      "norm": "Normalize"
+     },
+     {
+      "kind": "line",
+      "x": {
+       "shape": [
+        40
+       ],
+       "n_nan": 0,
+       "sum": -158.85264191532443,
+       "abs_sum": 158.85264191532443,
+       "min": -4.019068174121673,
+       "max": -3.9235639216445475,
+       "weighted": -3243.4269114256103
+      },
+      "y": {
+       "shape": [
+        40
+       ],
+       "n_nan": 0,
+       "sum": -82.0,
+       "abs_sum": 82.0,
+       "min": -4.0,
+       "max": -0.0999999999999996,
+       "weighted": -1148.0
+      },
+      "color": "#000000",
+      "linestyle": "-"
+     }
+    ]
+   },
+   {
+    "xlabel": "",
+    "ylabel": "$R_{xy}$ (h/e$^2$)",
+    "title": "",
+    "xlim": [
+     0.0,
+     1.0
+    ],
+    "ylim": [
+     -1.5,
+     1.5
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [],
+    "yticks": [
+     -2.0,
+     -1.0,
+     0.0,
+     1.0,
+     2.0
+    ],
+    "texts": [],
+    "legend": [],
+    "artists": [
+     {
+      "kind": "segments",
+      "segments": {
+       "shape": [
+        0
+       ],
+       "n_nan": 0,
+       "sum": 0.0,
+       "abs_sum": 0.0,
+       "min": 0.0,
+       "max": 0.0,
+       "weighted": 0.0
+      }
+     },
+     {
+      "kind": "mesh",
+      "values": {
+       "shape": [
+        256,
+        1
+       ],
+       "n_nan": 0,
+       "sum": 0.0,
+       "abs_sum": 192.0,
+       "min": -1.494140625,
+       "max": 1.494140625,
+       "weighted": 16383.75
+      },
+      "coordinates": {
+       "shape": [
+        257,
+        2,
+        2
+       ],
+       "n_nan": 0,
+       "sum": 257.0,
+       "abs_sum": 644.0,
+       "min": -1.5,
+       "max": 1.5,
+       "weighted": 264967.0
+      },
+      "cmap": "PuOr",
+      "clim": [
+       -1.5,
+       1.5
+      ],
+      "norm": "Normalize"
+     }
+    ]
+   },
+   {
+    "xlabel": "$n$ ($\\times10^{12}$ cm$^{-2}$)",
+    "ylabel": "$\\mu_0 H $ (T)",
+    "title": "",
+    "xlim": [
+     -3.5,
+     -2.6
+    ],
+    "ylim": [
+     -4.0,
+     4.0
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [
+     -4.0,
+     -3.5,
+     -3.0,
+     -2.5
+    ],
+    "yticks": [
+     -4.0,
+     -2.0,
+     0.0,
+     2.0,
+     4.0
+    ],
+    "texts": [
+     "(b)"
+    ],
+    "legend": [],
+    "artists": [
+     {
+      "kind": "mesh",
+      "values": {
+       "shape": [
+        151,
+        151
+       ],
+       "n_nan": 0,
+       "sum": 0.0,
+       "abs_sum": 9440.726971753178,
+       "min": -1.0505979460731028,
+       "max": 1.0505979460731028,
+       "weighted": -49645963.74570787
+      },
+      "coordinates": {
+       "shape": [
+        152,
+        152,
+        2
+       ],
+       "n_nan": 0,
+       "sum": -70212.89679059848,
+       "abs_sum": 123960.09679059847,
+       "min": -5.55,
+       "max": 5.55,
+       "weighted": -755061053.8459346
+      },
+      "cmap": "PuOr",
+      "clim": [
+       -1.5,
+       1.5
+      ],
+      "norm": "Normalize"
+     },
+     {
+      "kind": "line",
+      "x": {
+       "shape": [
+        75
+       ],
+       "n_nan": 0,
+       "sum": -220.73964537473074,
+       "abs_sum": 220.73964537473074,
+       "min": -3.009295290008346,
+       "max": -2.896010667372586,
+       "weighted": -8334.76921383915
+      },
+      "y": {
+       "shape": [
+        75
+       ],
+       "n_nan": 0,
+       "sum": -174.0,
+       "abs_sum": 174.0,
+       "min": -5.5,
+       "max": -0.0499999999999998,
+       "weighted": -4045.9999999999995
+      },
+      "color": "#000000",
+      "linestyle": "-"
+     }
+    ]
+   },
+   {
+    "xlabel": "",
+    "ylabel": "$R_{xy}$ (h/e$^2$)",
+    "title": "",
+    "xlim": [
+     0.0,
+     1.0
+    ],
+    "ylim": [
+     -1.5,
+     1.5
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [],
+    "yticks": [
+     -2.0,
+     -1.0,
+     0.0,
+     1.0,
+     2.0
+    ],
+    "texts": [],
+    "legend": [],
+    "artists": [
+     {
+      "kind": "segments",
+      "segments": {
+       "shape": [
+        0
+       ],
+       "n_nan": 0,
+       "sum": 0.0,
+       "abs_sum": 0.0,
+       "min": 0.0,
+       "max": 0.0,
+       "weighted": 0.0
+      }
+     },
+     {
+      "kind": "mesh",
+      "values": {
+       "shape": [
+        256,
+        1
+       ],
+       "n_nan": 0,
+       "sum": 0.0,
+       "abs_sum": 192.0,
+       "min": -1.494140625,
+       "max": 1.494140625,
+       "weighted": 16383.75
+      },
+      "coordinates": {
+       "shape": [
+        257,
+        2,
+        2
+       ],
+       "n_nan": 0,
+       "sum": 257.0,
+       "abs_sum": 644.0,
+       "min": -1.5,
+       "max": 1.5,
+       "weighted": 264967.0
+      },
+      "cmap": "PuOr",
+      "clim": [
+       -1.5,
+       1.5
+      ],
+      "norm": "Normalize"
+     }
+    ]
+   },
+   {
+    "xlabel": "$n$ (10$^{12}$ cm$^{-2}$)",
+    "ylabel": "$R_{xx}$ (h/e$^2$)",
+    "title": "",
+    "xlim": [
+     -4.5,
+     -1.85
+    ],
+    "ylim": [
+     -0.14,
+     3.5
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [
+     -5.0,
+     -4.0,
+     -3.0,
+     -2.0,
+     -1.0
+    ],
+    "yticks": [
+     -1.0,
+     0.0,
+     1.0,
+     2.0,
+     3.0,
+     4.0
+    ],
+    "texts": [
+     "(c)"
+    ],
+    "legend": [],
+    "artists": [
+     {
+      "kind": "line",
+      "x": {
+       "shape": [
+        251
+       ],
+       "n_nan": 0,
+       "sum": -787.8775683891752,
+       "abs_sum": 787.8775683891752,
+       "min": -4.438990438646955,
+       "max": -1.8389226952257665,
+       "weighted": -112977.59640131854
+      },
+      "y": {
+       "shape": [
+        251
+       ],
+       "n_nan": 0,
+       "sum": 84.77180108904196,
+       "abs_sum": 84.77663360886963,
+       "min": -0.0015387101691918658,
+       "max": 1.7190895988194883,
+       "weighted": 6921.4630998977955
+      },
+      "color": "#6a5acd",
+      "linestyle": "-"
+     }
+    ]
+   },
+   {
+    "xlabel": "$n$ ($\\times10^{12}$ cm$^{-2}$)",
+    "ylabel": "$D/\\epsilon_0$ (V/nm)",
+    "title": "",
+    "xlim": [
+     -4.5,
+     -2.0
+    ],
+    "ylim": [
+     -0.1,
+     0.2
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [
+     -6.0,
+     -4.0,
+     -2.0,
+     0.0
+    ],
+    "yticks": [
+     -0.2,
+     0.0,
+     0.2,
+     0.4000000000000001
+    ],
+    "texts": [
+     "(d)"
+    ],
+    "legend": [],
+    "artists": [
+     {
+      "kind": "mesh",
+      "values": {
+       "shape": [
+        121,
+        91
+       ],
+       "n_nan": 0,
+       "sum": -2748430.6092262994,
+       "abs_sum": 6535894.12666484,
+       "min": -705365.1455274973,
+       "max": 687325.4541413622,
+       "weighted": -5063614720.637229
+      },
+      "coordinates": {
+       "shape": [
+        122,
+        92,
+        2
+       ],
+       "n_nan": 0,
+       "sum": -29197.707462303235,
+       "abs_sum": 31459.849667288043,
+       "min": -5.9448253935376965,
+       "max": 0.5915509527754761,
+       "weighted": -404013001.1187398
+      },
+      "cmap": "PuOr",
+      "clim": [
+       -2.0,
+       2.0
+      ],
+      "norm": "Normalize"
+     },
+     {
+      "kind": "segments",
+      "segments": {
+       "shape": [
+        4
+       ],
+       "n_nan": 0,
+       "sum": -8.03,
+       "abs_sum": 8.17,
+       "min": -4.5,
+       "max": 0.035,
+       "weighted": -15.09
+      }
+     },
+     {
+      "kind": "segments",
+      "segments": {
+       "shape": [
+        4
+       ],
+       "n_nan": 0,
+       "sum": -6.090000000000001,
+       "abs_sum": 6.11,
+       "min": -3.5,
+       "max": 0.005,
+       "weighted": -11.270000000000001
+      }
+     }
+    ]
+   },
+   {
+    "xlabel": "",
+    "ylabel": "$R_{xy}$ (h/e$^2$)",
+    "title": "",
+    "xlim": [
+     0.0,
+     1.0
+    ],
+    "ylim": [
+     -2.0,
+     2.0
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [],
+    "yticks": [
+     -2.0,
+     -1.0,
+     0.0,
+     1.0,
+     2.0
+    ],
+    "texts": [],
+    "legend": [],
+    "artists": [
+     {
+      "kind": "segments",
+      "segments": {
+       "shape": [
+        0
+       ],
+       "n_nan": 0,
+       "sum": 0.0,
+       "abs_sum": 0.0,
+       "min": 0.0,
+       "max": 0.0,
+       "weighted": 0.0
+      }
+     },
+     {
+      "kind": "mesh",
+      "values": {
+       "shape": [
+        256,
+        1
+       ],
+       "n_nan": 0,
+       "sum": 0.0,
+       "abs_sum": 256.0,
+       "min": -1.9921875,
+       "max": 1.9921875,
+       "weighted": 21845.0
+      },
+      "coordinates": {
+       "shape": [
+        257,
+        2,
+        2
+       ],
+       "n_nan": 0,
+       "sum": 257.0,
+       "abs_sum": 773.0,
+       "min": -2.0,
+       "max": 2.0,
+       "weighted": 309171.0
+      },
+      "cmap": "PuOr",
+      "clim": [
+       -2.0,
+       2.0
+      ],
+      "norm": "Normalize"
+     }
+    ]
+   },
+   {
+    "xlabel": "$\\nu$",
+    "ylabel": "",
+    "title": "",
+    "xlim": [
+     -1.0999521759923482e-12,
+     -8.60832137733142e-13
+    ],
+    "ylim": [
+     -4.05,
+     4.05
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [
+     -1e-12
+    ],
+    "yticks": [
+     -4.0,
+     -2.0,
+     0.0,
+     2.0,
+     4.0
+    ],
+    "texts": [],
+    "legend": [],
+    "artists": []
+   },
+   {
+    "xlabel": "$\\nu$",
+    "ylabel": "",
+    "title": "",
+    "xlim": [
+     -8.369201339072214e-13,
+     -6.217120994739359e-13
+    ],
+    "ylim": [
+     -4.0,
+     4.0
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [
+     -6.666666666666666e-13
+    ],
+    "yticks": [
+     -4.0,
+     -2.0,
+     0.0,
+     2.0,
+     4.0
+    ],
+    "texts": [],
+    "legend": [],
+    "artists": []
+   },
+   {
+    "xlabel": "",
+    "ylabel": "$R_{xy}$ (h/e$^2$)",
+    "title": "",
+    "xlim": [
+     -4.5,
+     -1.85
+    ],
+    "ylim": [
+     -0.1,
+     2.5
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [
+     -5.0,
+     -4.0,
+     -3.0,
+     -2.0,
+     -1.0
+    ],
+    "yticks": [
+     -1.0,
+     0.0,
+     1.0,
+     2.0,
+     3.0
+    ],
+    "texts": [],
+    "legend": [],
+    "artists": []
+   },
+   {
+    "xlabel": "$\\nu$",
+    "ylabel": "",
+    "title": "",
+    "xlim": [
+     -4.5,
+     -1.85
+    ],
+    "ylim": [
+     -0.1,
+     2.5
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [
+     -4.1819999999999995,
+     -2.788,
+     -2.0909999999999997
+    ],
+    "yticks": [
+     -1.0,
+     0.0,
+     1.0,
+     2.0,
+     3.0
+    ],
+    "texts": [],
+    "legend": [],
+    "artists": [
+     {
+      "kind": "line",
+      "x": {
+       "shape": [
+        251
+       ],
+       "n_nan": 0,
+       "sum": -787.8775683891752,
+       "abs_sum": 787.8775683891752,
+       "min": -4.438990438646955,
+       "max": -1.8389226952257665,
+       "weighted": -112977.59640131854
+      },
+      "y": {
+       "shape": [
+        251
+       ],
+       "n_nan": 0,
+       "sum": 194.8543670751819,
+       "abs_sum": 194.96765239027928,
+       "min": -0.00553260503554844,
+       "max": 2.231413886158258,
+       "weighted": 17613.19639524643
+      },
+      "color": "#ff7f50",
+      "linestyle": "-"
+     },
+     {
+      "kind": "segments",
+      "segments": {
+       "shape": [
+        4
+       ],
+       "n_nan": 0,
+       "sum": -4.0,
+       "abs_sum": 8.0,
+       "min": -5.0,
+       "max": 1.0,
+       "weighted": -2.0
+      }
+     }
+    ]
+   },
+   {
+    "xlabel": "$\\nu$",
+    "ylabel": "",
+    "title": "",
+    "xlim": [
+     -1.0760401721664276e-12,
+     -4.782400765184122e-13
+    ],
+    "ylim": [
+     -0.1,
+     0.2
+    ],
+    "xscale": "linear",
+    "yscale": "linear",
+    "xticks": [
+     -1e-12,
+     -6.666666666666666e-13,
+     -5e-13
+    ],
+    "yticks": [
+     -0.2,
+     0.0,
+     0.2,
+     0.4000000000000001
+    ],
+    "texts": [],
+    "legend": [],
+    "artists": []
+   }
+  ]
+ }
+}

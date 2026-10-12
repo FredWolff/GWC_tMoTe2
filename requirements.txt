@@ -1,0 +1,6 @@
+# Needed to build the figures.
+# Developed and tested with Python 3.9.9, numpy 2.0.2, scipy 1.13.1 and matplotlib 3.9.4;
+# the lower bounds below are the oldest versions expected to work and have not been tested.
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.6

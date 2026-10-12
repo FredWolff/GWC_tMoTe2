@@ -1,0 +1,10 @@
+{
+ "cuts": {
+  "cut_0_b_perp": 0.0,
+  "cut_1_b_perp": 0.2,
+  "cut_2_b_perp": 0.4,
+  "cut_3_b_perp": 0.6,
+  "cut_4_b_perp": 0.8,
+  "cut_5_b_perp": 1.0
+ }
+}
